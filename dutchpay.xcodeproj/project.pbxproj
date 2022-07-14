@@ -26,6 +26,7 @@
 		D7A01CE0288046520040E08D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7A01CE2288046520040E08D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D7A01CE928804FE50040E08D /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		D7A01CEB2880617C0040E08D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		D7A01CC8288046500040E08D = {
 			isa = PBXGroup;
 			children = (
+				D7A01CEB2880617C0040E08D /* README.md */,
 				D7A01CD3288046500040E08D /* dutchpay */,
 				D7A01CD2288046500040E08D /* Products */,
 			);
